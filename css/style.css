@@ -1,0 +1,44 @@
+body{
+    width:1120px;
+    display: flex;
+    margin:0 auto;
+    display: flex;
+    flex-direction: column;
+}
+.braket{
+    background-color: rgb(72, 99, 99);
+    display: flex;
+    padding: 50px 90px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.general{
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    width: 251px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(80, 85, 89);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.prise {
+    text-align: center;
+    color: bisque;
+}
+.buy_0 ,.buy_1 ,.buy_2{
+    margin-top: 10px;
+    padding: 5px;
+    outline: none;
+}
+.tovar{
+    background-color: bisque;
+    color: rgb(63, 63, 63);
+    width: 150px;
+    /* height: 110px; */
+    padding: 20px;
+    border-radius: 10px;
+}
