@@ -60,3 +60,7 @@ function brack(e) {
 for (const item of btn) {
     item.onclick = brack
 }
+////
+let abr = 'John';
+let greet = `Hell0 ${abr.toUpperCase()} . Lox yu0`
+console.log(greet);
