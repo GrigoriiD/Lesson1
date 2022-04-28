@@ -64,3 +64,28 @@ for (const item of btn) {
 let abr = 'John';
 let greet = `Hell0 ${abr.toUpperCase()} . Lox yu0`
 console.log(greet);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
